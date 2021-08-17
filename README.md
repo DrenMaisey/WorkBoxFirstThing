@@ -9,7 +9,7 @@
 - Incollare il seguente codice:
 
     
-`{
+//{
     "$schema": "https://aka.ms/winget-settings.schema.json",
 
     // For documentation on these settings, see: https://aka.ms/winget-settings
@@ -24,7 +24,7 @@
             "scope": "machine"
         }
     },
-}`
+}//
 
 - Eseguire il file *Install.ps1*
 
