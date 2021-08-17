@@ -28,8 +28,10 @@
 
 `
 
-- Eseguire il file Install.ps1
+- Eseguire il file *Install.ps1*
 
 ## Passaggi Successivi
 
 Installare Espanso  https://espanso.org/
+
+Installare Crown Translate https://crow-translate.github.io/
