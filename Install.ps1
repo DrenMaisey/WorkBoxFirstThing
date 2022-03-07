@@ -5,7 +5,6 @@ winget install VideoLAN.VLC
 winget install Microsoft.PowerToys
 winget install pdfsam
 winget install "cutepdf writer"
-winget install Docker.DockerDesktop
 winget install SlackTechnologies.Slack
 winget install Telegram.TelegramDesktop
 winget install BraveSoftware.BraveBrowser

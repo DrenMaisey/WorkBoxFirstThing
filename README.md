@@ -30,6 +30,4 @@
 
 ## Passaggi Successivi
 
-Installare Espanso  https://espanso.org/
-
 Installare Crown Translate https://crow-translate.github.io/
